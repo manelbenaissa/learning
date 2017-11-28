@@ -1,2 +1,2 @@
 # learning
-little scripts to learn python
+little scripts
